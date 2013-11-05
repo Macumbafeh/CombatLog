@@ -1,0 +1,4 @@
+## Interface: 20400
+## Author: Schaka
+## Title: CombatLog
+CombatLog.lua
